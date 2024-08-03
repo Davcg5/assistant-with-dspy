@@ -1,0 +1,25 @@
+El cuarenta se juega en equipos de dos personas llamadas parejas.
+En el juego de Cuarenta, una caída ocurre cuando un jugador juega una carta del mismo valor que la carta previamente jugada, ganando así dos puntos.
+Una limpia se logra al recoger todas las cartas de la mesa en una jugada, obteniendo dos puntos adicionales.
+Para ganar el juego se tiene que alcanzar 40 puntos antes que el equipo contrario.
+Cuando un equipo hace cuatro caídas seguidas, gana el juego.
+Tener tres cartas iguales se conoce como una ronda y, puede ser estratégica.
+El jugador que tenga tres cartas iguales puede pedir dos puntos por su ronda.
+Una limpia es una jugada estratégica importante, ya que además de sumar puntos, impide que el oponente recoja cartas.
+Una limpia se logra jugando una carta que iguale la suma de todas las cartas presentes en la mesa
+Las cartas se distribuyen al inicio con cinco para cada jugador, determinando quién reparte primero por la carta más alta.
+Repartir más de 5 cartas es considerada una falla.
+Cuando un equipo alcanza 38 puntos, solo puede ganar con una caída; una limpia no suma puntos adicionales.
+Al final de cada partida, se cuentan las cartas recogidas para determinar los puntos.
+A partir de los 32 puntos, el cartón deja de sumar puntos directos, solo cuentan caídas o limpias.
+En términos especiales, un cartón es el conjunto de cartas recogidas por un jugador durante el juego.
+Un perro simboliza 10 puntos.
+Los puntos se contabilizan con las cartas 8, 9 y 10 ya que estas cartas no son parte del juego.
+El cartón se forma con las cartas que se recogen ya sea después de una caída o una limpia.
+Quedarse zapatero o zapatera significa que tu equipo no ha pasado de los 10 puntos mientras el equipo rival ya ha ganado el juego.
+Las estrategias incluyen la búsqueda de caídas y limpias.
+Las cartas bajas se pueden utilizar para capturar cartas de la mesa o preparar jugadas futuras.
+Si el adversario tiene ventaja en cartón, intenta hacer caídas y limpias para sumar puntos rápidamente.
+Si ambos equipos están cerca de 40 puntos, enfócate en hacer caídas para cerrar el juego.
+Una estrategia inicial es observar las cartas del oponente y guardar cartas altas para posibles caídas.
+El juego también puede jugarse uno contra uno, aunque es más común en parejas.

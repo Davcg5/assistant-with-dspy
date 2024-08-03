@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+dspy-ai==2.4.5
+chromadb
+pydantic
+google-generativeai
+llama_index
+llama-index-embeddings-gemini==0.1.6
